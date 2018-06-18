@@ -11,5 +11,5 @@ Numpy
 Rest will be preuploaded by Anaconda.
 Support Added-GPU (TENSORFLOW)
 Though there is some bug in keras(Backend-Theano) which I will be sorting out in a few days.
-Especially the task was created by building CNN & then feeding the data to LSTM network.
+Especially the task was created by building CNN & then feeding the data to LSTM network.This is bacsically to provide real time application for the blind persons in need.
 
